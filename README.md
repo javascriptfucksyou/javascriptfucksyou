@@ -4,6 +4,7 @@
 - Fake Taxi Software CEO
 - Dollar Millionaire
 - Doing this for my bros
+- Gang Gang
 
 ```typescript
 class JavaScriptFucksYou extends Human<Man> {
